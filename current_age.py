@@ -1,6 +1,6 @@
 name = input("Name: ")
-dob = int(input("Year of birth: "))
+yob = int(input("Year of birth: "))
 
-age = 2025 - dob; 
+age = 2025 - yob; 
 
 print("Age: ", age)
