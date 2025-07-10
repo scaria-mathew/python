@@ -1,5 +1,5 @@
 name = input("Name: ")
-dob = int(input("DOB: "))
+dob = int(input("Year of birth: "))
 
 age = 2025 - dob; 
 
