@@ -1,4 +1,4 @@
-text=input("Enter your sentence (use \\n for new lines): ")
+text=input("Enter the sentence (use \\n for new lines): ")
 text=text.replace("\\n","\n")
 lines=text.splitlines()
 words=text.split()
